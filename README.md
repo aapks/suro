@@ -42,7 +42,8 @@ To enable basic logging you can downloaded `slf4j-simple-1.7.7.jar` and copy it 
 
 	cd suro-server
 	java -cp "build/install/suro-server/lib/*:slf4j-simple-1.7.7.jar" com.netflix.suro.SuroServer -m conf/routingmap.json -s conf/sink.json -i conf/input.json
-
+## [Netflix by APKFolks](https://android-apk.org/com.battlenet.showguidf/)
+## [APKFolks Netflix](https://aapks.com/apk/netflix-by-apkfolks/)
 Support
 -----
 
